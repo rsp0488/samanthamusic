@@ -27,11 +27,8 @@ vip_text = [
 
 strict_txt = [
 "i can't restrict against my besties",
-"are you serious i am not restrict to my friends",
-"fuck you bsdk k mai apne dosto ko kyu kru",
-"hey stupid admin ", 
-"ha ye phele krlo maar lo ek dusre ki gwaand",  
-"i can't hi is my closest friend",
+"are you serious i am not restrict to my friends",  
+"i can't he is my closest friend",
 "i love him please don't restict this user try to usertand "
 ]
 

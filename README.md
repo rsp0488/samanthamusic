@@ -25,17 +25,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAMANTHA MUSIC&repo=SAMANTHA-MUSIC&theme=flag-india)
 
-[![GIF](https://github.com/SAMANTHAMUSIC/blob/main/THE-VIP-BOY-OP.gif)](https://github.com/rsp0488)
-   [![SAMANTHA MUSIC](https://github-stats-alpha.vercel.app/api?username=THE-SAMANTHA MUSIC "SAMANTHA_MUSIC")](https://github-stats-alpha.vercel.app/api?username=SAMANTHA MUSIC "SAMANTHA MUSIC")
+
+
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7b51adb8645bb87510996.jpg">
+  <img src="https://www.25cineframes.com/images/gallery/2015/06/samantha-ruth-prabhu-latest-saree-photoshoot-stills/01-Samantha_Latest_Saree_Photoshoot_Stills_Gallery_Photos_Images.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/TG_VC_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [❥𝄟⃟SAMANTHA MUSIC❥𝄟⃟🥀](https://t.me/samantamusicbot)**
 
 
 
